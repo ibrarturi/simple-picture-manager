@@ -1,0 +1,13 @@
+.pagination > li > a.active {
+    background-color: #eee;
+    border-color: #ddd;
+    color: #2a6496;
+}
+
+.popover{
+	max-width: 450px;
+    /*width:100%;*/
+    white-space: normal !important;
+    word-break: break-all !important;
+    word-wrap: break-word !important;
+}
